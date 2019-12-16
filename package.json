@@ -1,0 +1,21 @@
+{
+    "name": "badbug",
+    "displayName": "BADBUG",
+    "description": "\"A Colorful Italic Theme Based on 'Popping and Locking' Theme\"",
+    "version": "1.0.1",
+    "engines": {
+        "vscode": "^1.41.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "BADBUG",
+                "uiTheme": "vs-dark",
+                "path": "./themes/badbug-color-theme.json"
+            }
+        ]
+    }
+}
